@@ -26,7 +26,8 @@
 
 
 🎣软件界面
-![alt text](f8c29293-ea9c-42ec-bcfe-7c7e06760eba-1.png)
+<img width="1209" height="783" alt="f8c29293-ea9c-42ec-bcfe-7c7e06760eba" src="https://github.com/user-attachments/assets/ea5ecbe2-d218-4690-bb55-fb95cd69dce6" />
+
 
 🔊推送结果
 
